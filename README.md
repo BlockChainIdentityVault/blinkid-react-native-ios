@@ -1,4 +1,8 @@
-# BlinkID iOS SDK wrapper for React Native
+# [Deprecated] BlinkID iOS SDK wrapper for React Native
+
+**Note: this repository is replaced by an official BlinkID React Native release which supports both iOS and Android platforms.**
+
+**Official repo: https://github.com/BlinkID/blinkid-react-native**
 
 This repository contains example wrapper for BlinkID native SDK [iOS](https://github.com/BlinkID/blinkid-ios). For 100% of features and maximum control, consider using native SDK.
 
